@@ -1,0 +1,32 @@
+[
+  {
+    "ContainingType": "CobrAI.Controllers.CobrancaController",
+    "Method": "BuscarFaturasVencidas",
+    "RelativePath": "api/Cobranca/faturas-vencidas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CobrAI.Controllers.CobrancaController",
+    "Method": "PrepararCobrancas",
+    "RelativePath": "api/Cobranca/preparar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CobrAI.Controllers.CobrancaController",
+    "Method": "RegistrarCobrancas",
+    "RelativePath": "api/Cobranca/registrar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

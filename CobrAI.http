@@ -1,0 +1,6 @@
+@CobrAI_HostAddress = http://localhost:5186
+
+GET {{CobrAI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
